@@ -353,7 +353,185 @@ Whether you're creating your first HTML page or an advanced MERN Stack applicati
 
 ### Happy Coding & Happy Contributing! 🎉🔥
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+# 🚨 Important Notice for Contributors
+
+## 📂 Project Submission Guidelines
+
+Welcome to the **62Days-CodeSprint-WebDev-Challenge**! 🚀
+
+Before contributing, please carefully read the following guidelines.
+
+---
+
+## 🎯 Main Objective of This Repository
+
+The primary goal of this repository is to collect and showcase high-quality web development projects created by contributors during this **62-Day Challenge**.
+
+This repository serves as a central hub where contributors can submit their projects and build an amazing open-source collection for the community. 🌟
+
+---
+
+## ✅ What Contributors Are Allowed To Do
+
+Contributors are encouraged to submit:
+
+🌐 HTML Projects
+
+🎨 CSS Projects
+
+⚡ JavaScript Projects
+
+⚛️ React Projects
+
+🚀 Node.js Projects
+
+🍃 MongoDB Projects
+
+💻 MERN Stack Projects
+
+📱 Responsive Websites
+
+🛠️ Mini Projects
+
+🏆 Advanced Full Stack Applications
+
+All projects should be uploaded inside the appropriate project folders following the repository structure.
+
+Example:
+
+```text
+Project
+│
+├── HTML,CSS,JS
+│   ├── Ecommerce Website
+│   ├── Ganpati Bappa
+│
+├── MERN
+│   ├── DR Homeopathy Clinic
+│   ├── Zerodha Clone
+```
+
+---
+
+## 🚫 What Contributors Are NOT Allowed To Do
+
+Contributors must NOT:
+
+❌ Modify the website source code
+
+❌ Change website UI/UX
+
+❌ Edit showcase platform files
+
+❌ Modify admin dashboard functionality
+
+❌ Change project management features
+
+❌ Modify repository management systems
+
+❌ Edit platform architecture
+
+❌ Make unauthorized changes outside project folders
+
+At this stage, contributors are only expected to upload projects and contribute to the project collection.
+
+---
+
+## 👨‍💻 Website Development Responsibility
+
+The website portion of this initiative will be managed and maintained exclusively by the **Project Admin Team**.
+
+All showcase platform updates, dashboard development, project listing systems, analytics, and platform enhancements will be handled by the admin.
+
+Contributors should focus entirely on creating and submitting quality projects. 🚀
+
+---
+
+## 🔄 Future Opportunities
+
+In future phases of the project, contributors may be invited to contribute directly to the showcase platform.
+
+When required:
+
+✅ New issues will be created
+
+✅ Tasks will be assigned
+
+✅ Contributors will be notified
+
+✅ Website development contributions will be opened
+
+Until then, please avoid making website-related modifications.
+
+---
+
+## 🌟 Focus on Project Creation
+
+We encourage all contributors to:
+
+💡 Build creative projects
+
+💡 Experiment with new technologies
+
+💡 Improve coding skills
+
+💡 Learn through hands-on development
+
+💡 Showcase your talent
+
+💡 Help grow the open-source community
+
+The more projects we collect, the stronger this repository becomes for learners around the world. 🌍
+
+---
+
+## 🎯 Challenge Goal
+
+Our mission is to create one of the largest collections of beginner-to-advanced web development projects.
+
+🔥 Let's work together to achieve:
+
+🏆 200+ Projects
+
+👨‍💻 Hundreds of Contributors
+
+🌟 High-Quality Submissions
+
+🚀 A Powerful Learning Resource for Future Developers
+
+Throughout this 62-Day Challenge, we encourage every contributor to submit multiple projects and continuously improve their development skills.
+
+---
+
+## ❤️ Message from the Project Admin
+
+As Project Admin, my goal is simple:
+
+🚀 Collect amazing projects
+
+🚀 Help contributors learn by building
+
+🚀 Create a valuable project showcase platform
+
+🚀 Support open-source collaboration
+
+🚀 Build a strong developer community
+
+I encourage everyone to contribute actively, submit innovative projects, and help us reach our goal of building a repository with **200+ quality projects** by the end of the challenge.
+
+Every contribution matters.
+
+Every project inspires someone.
+
+Every contributor helps grow this community.
+
+---
+
+# 🌟 Build More • Learn More • Contribute More • Grow More 🌟
+
+## 🚀 Let's Reach 200+ Projects Together!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
