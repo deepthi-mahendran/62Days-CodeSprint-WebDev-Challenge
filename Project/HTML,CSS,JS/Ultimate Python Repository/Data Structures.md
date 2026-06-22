@@ -1,4 +1,4 @@
-## 📊 Data Structures
+## 🧮 Data Structures
 
 **Data structures are the specialized containers used to organize, store, manipulate, and access complex datasets efficiently. Selecting the correct memory model directly impacts your runtime complexity, search speeds, and optimization boundaries.**
 
