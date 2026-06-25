@@ -339,7 +339,7 @@ This project runs as a **full end-to-end pipeline** (Flask + Node/Express + Reac
 
 Run:
 ```bash
-git clone https://github.com/abhisek2004/62Days-CodeSprint-WebDev-Challenge/Road-Incident-Detection-and-SMS-Alert-System.git
+git clone https://github.com/abhisek2004/62Days-CodeSprint-WebDev-Challenge/Project/MERN/Road-Incident-Detection-and-SMS-Alert-System.git
 ```
 
 ---
